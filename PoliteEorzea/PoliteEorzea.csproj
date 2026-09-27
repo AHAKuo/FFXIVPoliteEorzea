@@ -12,6 +12,7 @@
 • Picks party or alliance chat automatically; skips solo duties.
 • Fully editable message lists, delays and triggers in /polite.</Description>
     <Tags>chat;party;alliance;greeting;hello;thanks;duty;dungeon;raid;trial;social;quality-of-life;qol</Tags>
+    <RepoUrl>https://github.com/AHAKuo/FFXIVPoliteEorzea</RepoUrl>
   </PropertyGroup>
   <PropertyGroup>
     <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
