@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Project Sdk="Dalamud.NET.Sdk/15.0.0">
   <PropertyGroup>
-    <Version>0.1.0.0</Version>
-    <Author>AHAKuo</Author>
+    <Version>0.1.1.0</Version>
+    <Author>ahadev</Author>
     <Name>Polite Eorzea</Name>
     <Punchline>Say hello and thank your party with one command, or automatically in duties.</Punchline>
     <Description>Polite Eorzea sends a greeting or a farewell to your party (or alliance) from your own list of messages.
