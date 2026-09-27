@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Project Sdk="Dalamud.NET.Sdk/15.0.0">
   <PropertyGroup>
-    <Version>0.1.1.0</Version>
+    <Version>0.1.2.0</Version>
     <Author>ahadev</Author>
     <Name>Polite Eorzea</Name>
     <Punchline>Say hello and thank your party with one command, or automatically in duties.</Punchline>
@@ -13,6 +13,7 @@
 • Fully editable message lists, delays and triggers in /polite.</Description>
     <Tags>chat;party;alliance;greeting;hello;thanks;duty;dungeon;raid;trial;social;quality-of-life;qol</Tags>
     <RepoUrl>https://github.com/AHAKuo/FFXIVPoliteEorzea</RepoUrl>
+    <IconUrl>https://raw.githubusercontent.com/AHAKuo/FFXIVPoliteEorzea/main/images/icon.png</IconUrl>
   </PropertyGroup>
   <PropertyGroup>
     <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
